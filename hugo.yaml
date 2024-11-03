@@ -121,7 +121,7 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
-          url: https://github.com/joanasantostd
+          url: https://github.com/josantostd
         - icon: fab fa-linkedin-in
           url: https://www.linkedin.com/in/joana-souza
         - icon: fab fa-instagram
